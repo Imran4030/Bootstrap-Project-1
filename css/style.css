@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;600;700&display=swap');
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.underline{
+    border-bottom: 5px solid #221e1e38;
+    width: 7%;
+    margin: 20px auto;
+
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-color: #87509C;
+    
+}
+p{
+    font-size: 17px;
+}
+.hero-part a{
+background-color: #EB7D4B;
+color: #FFFFFF;
+}
+.hero-part a:hover{
+    background-color: #da6d3e;
+}
+.navbar li:hover{
+    background-color: #643A79;
+}
+#service{
+    background-color: #17C2A4;
+}
+#service .box-part img{
+    height: 150px;
+}
+#team{
+    background-color: #E7F1F8;
+}
+.p-t{
+    color: #30BAE7;
+}
+.team-icon-box i{
+    background-color: #BDD1DF;
+    font-size: 15px;
+    padding: 8px;
+    width: 40px;
+    border-radius: 100%;
+}
+.team-icon-box i:hover{
+    background-color: #7f8f9b;
+}
+#skill{
+    background-color: #FFFFFF;
+}
+#portfolio{
+    background-color: #FFDD99;
+}
+#portfolio .box-part{
+    margin-top: 40px;
+}
+.portfolio-btn-box button{
+    background-color: #EBC985;
+    border: none;
+    width: 10%;
+}
+.portfolio-btn-box button:hover{
+    background-color: #FFFFFF;
+}
+#portfolio .btn{
+    background-color: #17C2A4;
+}
+#about{
+    background-color: #D74680;
+}
+#contact{
+    background-color: #3C5499;
+}
+form{
+    width: 60%;
+    margin: auto;
+   
+}
+.form-part-one{
+    margin-bottom: 20px;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: #273A71;
+}
+input[type="text"] {
+    width: 98%;
+    margin-right: 2%;
+}
+input[type="email"] {
+    width: 98%;
+    margin-left: 2%;
+}
+#contact .btn{
+background-color: #30BAE7;
+width: 20%;
+margin: auto;
+}
+#footer{
+    background-color: #344B8E;
+}
+.footer-part li{
+display: inline-block;
+margin: 5px 20px;
+}
+.footer-part li a{
+    color: #ffff;
+    text-decoration: none;
+}
+.footer-part ul li a:hover{
+    color: #30BAE7;
+}
